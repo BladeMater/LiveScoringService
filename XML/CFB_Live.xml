@@ -1,0 +1,1942 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-scores>
+    <date year="2016" month="11" date="26" day="6"/>
+    <time hour="18" minute="58" second="55" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+    <version number="6"/>
+    <league global-id="16" name="College Football" alias="CFB" display-name=""/>
+    <season season="2016"/>
+    <cfb-scores>
+      <cfb-score>
+        <date year="2016" month="11" date="24" day="4"/>
+        <time hour="19" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="24" day="4"/>
+        <local-time hour="18" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611240084" global-id="1621239"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Kyle Field" city="College Station" state="Texas" state-id="43" country-name="United States" country-id="1" id="84" global-id="2882"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <outcome-home outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <visiting-team>
+          <team-name name="Tigers" alias="LSU"/>
+          <team-city city="LSU"/>
+          <team-code id="76" global-id="3481" division="1"/>
+          <team-conference conference="Southeastern" abbrev="SEC" id="8"/>
+          <team-rank rank="25" playoff-rank="0"/>
+          <record wins="7" losses="4" ties="0" pct=".636"/>
+          <linescore score="54" timeouts-left="2">
+            <quarter quarter="1" score="10"/>
+            <quarter quarter="2" score="10"/>
+            <quarter quarter="3" score="14"/>
+            <quarter quarter="4" score="20"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Aggies" alias="TexA&amp;M"/>
+          <team-city city="Texas A&amp;M"/>
+          <team-code id="84" global-id="3489" division="1"/>
+          <team-conference conference="Southeastern" abbrev="SEC" id="8"/>
+          <team-rank rank="22" playoff-rank="0"/>
+          <record wins="8" losses="4" ties="0" pct=".667"/>
+          <linescore score="39" timeouts-left="0">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="0"/>
+            <quarter quarter="3" score="10"/>
+            <quarter quarter="4" score="22"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="25" day="5"/>
+        <time hour="12" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="25" day="5"/>
+        <local-time hour="12" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611250006" global-id="1621870"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Kenan Memorial Stadium" city="Chapel Hill" state="North Carolina" state-id="33" country-name="United States" country-id="1" id="6" global-id="2805"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <outcome-home outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <visiting-team>
+          <team-name name="Wolfpack" alias="NCSU"/>
+          <team-city city="North Carolina State"/>
+          <team-code id="7" global-id="3413" division="1"/>
+          <team-conference conference="Atlantic Coast" abbrev="ACC" id="1"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="6" losses="6" ties="0" pct=".500"/>
+          <linescore score="28" timeouts-left="3">
+            <quarter quarter="1" score="14"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Tar Heels" alias="UNC"/>
+          <team-city city="North Carolina"/>
+          <team-code id="6" global-id="3412" division="1"/>
+          <team-conference conference="Atlantic Coast" abbrev="ACC" id="1"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="8" losses="4" ties="0" pct=".667"/>
+          <linescore score="21" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="14"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="25" day="5"/>
+        <time hour="12" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="25" day="5"/>
+        <local-time hour="11" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611250101" global-id="1627052"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Liberty Bowl Memorial" city="Memphis" state="Tennessee" state-id="42" country-name="United States" country-id="1" id="101" global-id="2899"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Cougars" alias="Hou"/>
+          <team-city city="Houston"/>
+          <team-code id="80" global-id="3485" division="1"/>
+          <team-conference conference="American Athletic Conference" abbrev="AAC" id="122"/>
+          <team-rank rank="18" playoff-rank="20"/>
+          <record wins="9" losses="3" ties="0" pct=".750"/>
+          <linescore score="44" timeouts-left="3">
+            <quarter quarter="1" score="10"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="10"/>
+            <quarter quarter="4" score="17"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Tigers" alias="Mem"/>
+          <team-city city="Memphis"/>
+          <team-code id="101" global-id="3506" division="1"/>
+          <team-conference conference="American Athletic Conference" abbrev="AAC" id="122"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="8" losses="4" ties="0" pct=".667"/>
+          <linescore score="48" timeouts-left="2">
+            <quarter quarter="1" score="21"/>
+            <quarter quarter="2" score="13"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="14"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="25" day="5"/>
+        <time hour="14" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="25" day="5"/>
+        <local-time hour="13" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611250022" global-id="1621123"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Memorial Stadium at Faurot Field" city="Columbia" state="Missouri" state-id="25" country-name="United States" country-id="1" id="22" global-id="2821"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Razorbacks" alias="Ark"/>
+          <team-city city="Arkansas"/>
+          <team-code id="74" global-id="3479" division="1"/>
+          <team-conference conference="Southeastern" abbrev="SEC" id="8"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="7" losses="5" ties="0" pct=".583"/>
+          <linescore score="24" timeouts-left="0">
+            <quarter quarter="1" score="14"/>
+            <quarter quarter="2" score="10"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Tigers" alias="Mizzou"/>
+          <team-city city="Missouri"/>
+          <team-code id="22" global-id="3428" division="1"/>
+          <team-conference conference="Southeastern" abbrev="SEC" id="8"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="4" losses="8" ties="0" pct=".333"/>
+          <linescore score="28" timeouts-left="2">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="0"/>
+            <quarter quarter="3" score="14"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="25" day="5"/>
+        <time hour="15" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="25" day="5"/>
+        <local-time hour="14" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611250083" global-id="1621498"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Darrell K. Royal-Texas Memorial Stadium/Jamail Field" city="Austin" state="Texas" state-id="43" country-name="United States" country-id="1" id="83" global-id="2881"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <outcome-home outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <visiting-team>
+          <team-name name="Horned Frogs" alias="TCU"/>
+          <team-city city="TCU"/>
+          <team-code id="85" global-id="3490" division="1"/>
+          <team-conference conference="Big 12" abbrev="Big 12" id="71"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="6" losses="5" ties="0" pct=".545"/>
+          <linescore score="31" timeouts-left="1">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="0"/>
+            <quarter quarter="3" score="10"/>
+            <quarter quarter="4" score="14"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Longhorns" alias="Tex"/>
+          <team-city city="Texas"/>
+          <team-code id="83" global-id="3488" division="1"/>
+          <team-conference conference="Big 12" abbrev="Big 12" id="71"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="5" losses="7" ties="0" pct=".417"/>
+          <linescore score="9" timeouts-left="2">
+            <quarter quarter="1" score="3"/>
+            <quarter quarter="2" score="3"/>
+            <quarter quarter="3" score="3"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="25" day="5"/>
+        <time hour="15" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="25" day="5"/>
+        <local-time hour="14" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611250028" global-id="1621656"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Kinnick Stadium" city="Iowa City" state="Iowa" state-id="15" country-name="United States" country-id="1" id="28" global-id="2827"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Cornhuskers" alias="Neb"/>
+          <team-city city="Nebraska"/>
+          <team-code id="23" global-id="3429" division="1"/>
+          <team-conference conference="Big Ten" abbrev="Big 10" id="4"/>
+          <team-rank rank="17" playoff-rank="16"/>
+          <record wins="9" losses="3" ties="0" pct=".750"/>
+          <linescore score="10" timeouts-left="3">
+            <quarter quarter="1" score="0"/>
+            <quarter quarter="2" score="3"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Hawkeyes" alias="Iowa"/>
+          <team-city city="Iowa"/>
+          <team-code id="28" global-id="3434" division="1"/>
+          <team-conference conference="Big Ten" abbrev="Big 10" id="4"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="8" losses="4" ties="0" pct=".667"/>
+          <linescore score="40" timeouts-left="1">
+            <quarter quarter="1" score="13"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="6"/>
+            <quarter quarter="4" score="14"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="25" day="5"/>
+        <time hour="15" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="25" day="5"/>
+        <local-time hour="12" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611250066" global-id="1622081"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Clarence D. Martin Stadium" city="Pullman" state="Washington" state-id="47" country-name="United States" country-id="1" id="66" global-id="2864"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <outcome-home outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <visiting-team>
+          <team-name name="Huskies" alias="Wash"/>
+          <team-city city="Washington"/>
+          <team-code id="65" global-id="3470" division="1"/>
+          <team-conference conference="Pac-12" abbrev="Pac-12" id="7"/>
+          <team-rank rank="6" playoff-rank="5"/>
+          <record wins="11" losses="1" ties="0" pct=".917"/>
+          <linescore score="45" timeouts-left="3">
+            <quarter quarter="1" score="28"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="10"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Cougars" alias="WashSt"/>
+          <team-city city="Washington State"/>
+          <team-code id="66" global-id="3471" division="1"/>
+          <team-conference conference="Pac-12" abbrev="Pac-12" id="7"/>
+          <team-rank rank="23" playoff-rank="23"/>
+          <record wins="8" losses="4" ties="0" pct=".667"/>
+          <linescore score="17" timeouts-left="3">
+            <quarter quarter="1" score="3"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="25" day="5"/>
+        <time hour="15" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="25" day="5"/>
+        <local-time hour="13" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611250087" global-id="1630052"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Falcon Stadium" city="USAFA" state="Colorado" state-id="6" country-name="United States" country-id="1" id="87" global-id="2885"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Broncos" alias="Boise"/>
+          <team-city city="Boise State"/>
+          <team-code id="112" global-id="3517" division="1"/>
+          <team-conference conference="Mountain West" abbrev="MWC" id="87"/>
+          <team-rank rank="20" playoff-rank="19"/>
+          <record wins="10" losses="2" ties="0" pct=".833"/>
+          <linescore score="20" timeouts-left="0">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="3"/>
+            <quarter quarter="3" score="3"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Falcons" alias="AF"/>
+          <team-city city="Air Force"/>
+          <team-code id="87" global-id="3492" division="1"/>
+          <team-conference conference="Mountain West" abbrev="MWC" id="87"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="9" losses="3" ties="0" pct=".750"/>
+          <linescore score="27" timeouts-left="3">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="10"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="3"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="25" day="5"/>
+        <time hour="16" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="25" day="5"/>
+        <local-time hour="15" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611250105" global-id="1626713"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Carlisle-Faulkner Field at M.M. Roberts Stadium" city="Hattiesburg" state="Mississippi" state-id="24" country-name="United States" country-id="1" id="105" global-id="2903"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Bulldogs" alias="LaTech"/>
+          <team-city city="Louisiana Tech"/>
+          <team-code id="38" global-id="3444" division="1"/>
+          <team-conference conference="Conference USA" abbrev="CUSA" id="72"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="8" losses="4" ties="0" pct=".667"/>
+          <linescore score="24" timeouts-left="0">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="10"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Golden Eagles" alias="SouMis"/>
+          <team-city city="Southern Miss"/>
+          <team-code id="105" global-id="3510" division="1"/>
+          <team-conference conference="Conference USA" abbrev="CUSA" id="72"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="6" losses="6" ties="0" pct=".500"/>
+          <linescore score="39" timeouts-left="0">
+            <quarter quarter="1" score="10"/>
+            <quarter quarter="2" score="13"/>
+            <quarter quarter="3" score="6"/>
+            <quarter quarter="4" score="10"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="25" day="5"/>
+        <time hour="17" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="25" day="5"/>
+        <local-time hour="17" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611250056" global-id="1628840"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Waldo Stadium" city="Kalamazoo" state="Michigan" state-id="22" country-name="United States" country-id="1" id="56" global-id="2854"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Rockets" alias="Toledo"/>
+          <team-city city="Toledo"/>
+          <team-code id="55" global-id="3460" division="1"/>
+          <team-conference conference="Mid-American" abbrev="MAC" id="6"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="9" losses="3" ties="0" pct=".750"/>
+          <linescore score="35" timeouts-left="3">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="21"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Broncos" alias="WestMi"/>
+          <team-city city="Western Michigan"/>
+          <team-code id="56" global-id="3461" division="1"/>
+          <team-conference conference="Mid-American" abbrev="MAC" id="6"/>
+          <team-rank rank="14" playoff-rank="21"/>
+          <record wins="12" losses="0" ties="0" pct="1.000"/>
+          <linescore score="55" timeouts-left="2">
+            <quarter quarter="1" score="14"/>
+            <quarter quarter="2" score="10"/>
+            <quarter quarter="3" score="21"/>
+            <quarter quarter="4" score="10"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="25" day="5"/>
+        <time hour="18" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="25" day="5"/>
+        <local-time hour="17" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611250086" global-id="1621604"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="AT&amp;T Stadium" city="Arlington" state="Texas" state-id="43" country-name="United States" country-id="1" id="673" global-id="8008"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Bears" alias="Baylor"/>
+          <team-city city="Baylor"/>
+          <team-code id="79" global-id="3484" division="1"/>
+          <team-conference conference="Big 12" abbrev="Big 12" id="71"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="6" losses="5" ties="0" pct=".545"/>
+          <linescore score="35" timeouts-left="2">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="14"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Red Raiders" alias="TxTch"/>
+          <team-city city="Texas Tech"/>
+          <team-code id="86" global-id="3491" division="1"/>
+          <team-conference conference="Big 12" abbrev="Big 12" id="71"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="5" losses="7" ties="0" pct=".417"/>
+          <linescore score="54" timeouts-left="1">
+            <quarter quarter="1" score="20"/>
+            <quarter quarter="2" score="21"/>
+            <quarter quarter="3" score="10"/>
+            <quarter quarter="4" score="3"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="25" day="5"/>
+        <time hour="20" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="25" day="5"/>
+        <local-time hour="19" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611250107" global-id="1627051"/>
+        <coverage level="30"/>
+        <source id="2"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Skelly Field at H.A. Chapman Stadium" city="Tulsa" state="Oklahoma" state-id="36" country-name="United States" country-id="1" id="107" global-id="2905"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="5" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="5" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Bearcats" alias="Cin"/>
+          <team-city city="Cincinnati"/>
+          <team-code id="98" global-id="3503" division="1"/>
+          <team-conference conference="American Athletic Conference" abbrev="AAC" id="122"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="4" losses="8" ties="0" pct=".333"/>
+          <linescore score="37" timeouts-left="1">
+            <quarter quarter="1" score="17"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="3"/>
+            <quarter quarter="5" score="3"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Golden Hurricane" alias="Tulsa"/>
+          <team-city city="Tulsa"/>
+          <team-code id="107" global-id="3512" division="1"/>
+          <team-conference conference="American Athletic Conference" abbrev="AAC" id="122"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="9" losses="3" ties="0" pct=".750"/>
+          <linescore score="40" timeouts-left="1">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="13"/>
+            <quarter quarter="5" score="6"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="25" day="5"/>
+        <time hour="21" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="25" day="5"/>
+        <local-time hour="19" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611250057" global-id="1621594"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Arizona Stadium" city="Tucson" state="Arizona" state-id="3" country-name="United States" country-id="1" id="57" global-id="2855"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Sun Devils" alias="AriSt"/>
+          <team-city city="Arizona State"/>
+          <team-code id="58" global-id="3463" division="1"/>
+          <team-conference conference="Pac-12" abbrev="Pac-12" id="7"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="5" losses="7" ties="0" pct=".417"/>
+          <linescore score="35" timeouts-left="2">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="14"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Wildcats" alias="Ari"/>
+          <team-city city="Arizona"/>
+          <team-code id="57" global-id="3462" division="1"/>
+          <team-conference conference="Pac-12" abbrev="Pac-12" id="7"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="3" losses="9" ties="0" pct=".250"/>
+          <linescore score="56" timeouts-left="2">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="21"/>
+            <quarter quarter="3" score="14"/>
+            <quarter quarter="4" score="14"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="12" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="12" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260068" global-id="1621199"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Sanford Stadium" city="Athens" state="Georgia" state-id="10" country-name="United States" country-id="1" id="68" global-id="2866"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="1" outcome="Win" conf-outcome-id="0" conference-outcome="No game"/>
+        <outcome-home outcome-id="2" outcome="Loss" conf-outcome-id="0" conference-outcome="No game"/>
+        <visiting-team>
+          <team-name name="Yellow Jackets" alias="GaTech"/>
+          <team-city city="Georgia Tech"/>
+          <team-code id="4" global-id="3410" division="1"/>
+          <team-conference conference="Atlantic Coast" abbrev="ACC" id="1"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="8" losses="4" ties="0" pct=".667"/>
+          <linescore score="28" timeouts-left="2">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="14"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Bulldogs" alias="UGa"/>
+          <team-city city="Georgia"/>
+          <team-code id="68" global-id="3473" division="1"/>
+          <team-conference conference="Southeastern" abbrev="SEC" id="8"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="7" losses="5" ties="0" pct=".583"/>
+          <linescore score="27" timeouts-left="1">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="13"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="12" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="12" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260100" global-id="1621219"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Papa John's Cardinal Stadium" city="Louisville" state="Kentucky" state-id="17" country-name="United States" country-id="1" id="100" global-id="3155"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="1" outcome="Win" conf-outcome-id="0" conference-outcome="No game"/>
+        <outcome-home outcome-id="2" outcome="Loss" conf-outcome-id="0" conference-outcome="No game"/>
+        <visiting-team>
+          <team-name name="Wildcats" alias="Kty"/>
+          <team-city city="Kentucky"/>
+          <team-code id="69" global-id="3474" division="1"/>
+          <team-conference conference="Southeastern" abbrev="SEC" id="8"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="7" losses="5" ties="0" pct=".583"/>
+          <linescore score="41" timeouts-left="2">
+            <quarter quarter="1" score="14"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="10"/>
+            <quarter quarter="4" score="10"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Cardinals" alias="Lou"/>
+          <team-city city="Louisville"/>
+          <team-code id="100" global-id="3505" division="1"/>
+          <team-conference conference="Atlantic Coast" abbrev="ACC" id="1"/>
+          <team-rank rank="11" playoff-rank="11"/>
+          <record wins="9" losses="3" ties="0" pct=".750"/>
+          <linescore score="38" timeouts-left="2">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="17"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="12" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="11" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260032" global-id="1621558"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Ryan Field" city="Evanston" state="Illinois" state-id="13" country-name="United States" country-id="1" id="32" global-id="2831"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Fighting Illini" alias="Ill"/>
+          <team-city city="Illinois"/>
+          <team-code id="26" global-id="3432" division="1"/>
+          <team-conference conference="Big Ten" abbrev="Big 10" id="4"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="3" losses="9" ties="0" pct=".250"/>
+          <linescore score="21" timeouts-left="1">
+            <quarter quarter="1" score="0"/>
+            <quarter quarter="2" score="14"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Wildcats" alias="NW"/>
+          <team-city city="Northwestern"/>
+          <team-code id="32" global-id="3438" division="1"/>
+          <team-conference conference="Big Ten" abbrev="Big 10" id="4"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="6" losses="6" ties="0" pct=".500"/>
+          <linescore score="42" timeouts-left="1">
+            <quarter quarter="1" score="14"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="14"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="12" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="12" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260027" global-id="1621620"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Memorial Stadium" city="Bloomington" state="Indiana" state-id="14" country-name="United States" country-id="1" id="27" global-id="2826"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Boilermakers" alias="Purdue"/>
+          <team-city city="Purdue"/>
+          <team-code id="35" global-id="3441" division="1"/>
+          <team-conference conference="Big Ten" abbrev="Big 10" id="4"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="3" losses="9" ties="0" pct=".250"/>
+          <linescore score="24" timeouts-left="0">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="9"/>
+            <quarter quarter="3" score="6"/>
+            <quarter quarter="4" score="2"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Hoosiers" alias="Ind"/>
+          <team-city city="Indiana"/>
+          <team-code id="27" global-id="3433" division="1"/>
+          <team-conference conference="Big Ten" abbrev="Big 10" id="4"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="6" losses="6" ties="0" pct=".500"/>
+          <linescore score="26" timeouts-left="0">
+            <quarter quarter="1" score="14"/>
+            <quarter quarter="2" score="3"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="9"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="12" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="11" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260021" global-id="1621668"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Bill Snyder Family Stadium" city="Manhattan" state="Kansas" state-id="16" country-name="United States" country-id="1" id="21" global-id="2820"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Jayhawks" alias="Kansas"/>
+          <team-city city="Kansas"/>
+          <team-code id="20" global-id="3426" division="1"/>
+          <team-conference conference="Big 12" abbrev="Big 12" id="71"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="2" losses="10" ties="0" pct=".167"/>
+          <linescore score="19" timeouts-left="0">
+            <quarter quarter="1" score="3"/>
+            <quarter quarter="2" score="0"/>
+            <quarter quarter="3" score="6"/>
+            <quarter quarter="4" score="10"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Wildcats" alias="KanSt"/>
+          <team-city city="Kansas State"/>
+          <team-code id="21" global-id="3427" division="1"/>
+          <team-conference conference="Big 12" abbrev="Big 12" id="71"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="7" losses="4" ties="0" pct=".636"/>
+          <linescore score="34" timeouts-left="1">
+            <quarter quarter="1" score="6"/>
+            <quarter quarter="2" score="14"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="12" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="12" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260005" global-id="1621683"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Capital One Field at Maryland Stadium" city="College Park" state="Maryland" state-id="20" country-name="United States" country-id="1" id="5" global-id="2804"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Scarlet Knights" alias="Rut"/>
+          <team-city city="Rutgers"/>
+          <team-code id="13" global-id="3419" division="1"/>
+          <team-conference conference="Big Ten" abbrev="Big 10" id="4"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="2" losses="10" ties="0" pct=".167"/>
+          <linescore score="13" timeouts-left="2">
+            <quarter quarter="1" score="0"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="6"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Terrapins" alias="MD"/>
+          <team-city city="Maryland"/>
+          <team-code id="5" global-id="3411" division="1"/>
+          <team-conference conference="Big Ten" abbrev="Big 10" id="4"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="6" losses="6" ties="0" pct=".500"/>
+          <linescore score="31" timeouts-left="1">
+            <quarter quarter="1" score="14"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="3"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="12" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="12" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260033" global-id="1621717"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Ohio Stadium" city="Columbus" state="Ohio" state-id="35" country-name="United States" country-id="1" id="33" global-id="2832"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="6" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="6" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Wolverines" alias="Mich"/>
+          <team-city city="Michigan"/>
+          <team-code id="29" global-id="3435" division="1"/>
+          <team-conference conference="Big Ten" abbrev="Big 10" id="4"/>
+          <team-rank rank="3" playoff-rank="3"/>
+          <record wins="10" losses="2" ties="0" pct=".833"/>
+          <linescore score="27" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+            <quarter quarter="2" score="10"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="0"/>
+            <quarter quarter="5" score="7"/>
+            <quarter quarter="6" score="3"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Buckeyes" alias="OhioSt"/>
+          <team-city city="Ohio State"/>
+          <team-code id="33" global-id="3439" division="1"/>
+          <team-conference conference="Big Ten" abbrev="Big 10" id="4"/>
+          <team-rank rank="2" playoff-rank="2"/>
+          <record wins="11" losses="1" ties="0" pct=".917"/>
+          <linescore score="30" timeouts-left="1">
+            <quarter quarter="1" score="0"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="3"/>
+            <quarter quarter="5" score="7"/>
+            <quarter quarter="6" score="6"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="12" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="12" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260016" global-id="1621986"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Lane Stadium/Worsham Field" city="Blacksburg" state="Virginia" state-id="46" country-name="United States" country-id="1" id="16" global-id="2815"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Cavaliers" alias="UVa"/>
+          <team-city city="Virginia"/>
+          <team-code id="8" global-id="3414" division="1"/>
+          <team-conference conference="Atlantic Coast" abbrev="ACC" id="1"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="2" losses="10" ties="0" pct=".167"/>
+          <linescore score="10" timeouts-left="3">
+            <quarter quarter="1" score="0"/>
+            <quarter quarter="2" score="0"/>
+            <quarter quarter="3" score="3"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Hokies" alias="VaTech"/>
+          <team-city city="Virginia Tech"/>
+          <team-code id="16" global-id="3422" division="1"/>
+          <team-conference conference="Atlantic Coast" abbrev="ACC" id="1"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="9" losses="3" ties="0" pct=".750"/>
+          <linescore score="52" timeouts-left="3">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="21"/>
+            <quarter quarter="3" score="24"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="12" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="12" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611261019" global-id="1627053"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Raymond James Stadium" city="Tampa" state="Florida" state-id="9" country-name="United States" country-id="1" id="1038" global-id="3179"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Knights" alias="UCF"/>
+          <team-city city="UCF"/>
+          <team-code id="210" global-id="3615" division="1"/>
+          <team-conference conference="American Athletic Conference" abbrev="AAC" id="122"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="6" losses="6" ties="0" pct=".500"/>
+          <linescore score="31" timeouts-left="1">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="10"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Bulls" alias="SoFla"/>
+          <team-city city="South Florida"/>
+          <team-code id="1019" global-id="4009" division="1"/>
+          <team-conference conference="American Athletic Conference" abbrev="AAC" id="122"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="10" losses="2" ties="0" pct=".833"/>
+          <linescore score="48" timeouts-left="1">
+            <quarter quarter="1" score="14"/>
+            <quarter quarter="2" score="10"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="17"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="12" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="12" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611260012" global-id="1621939"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Heinz Field" city="Pittsburgh" state="Pennsylvania" state-id="38" country-name="United States" country-id="1" id="2061" global-id="3205"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Orange" alias="Syr"/>
+          <team-city city="Syracuse"/>
+          <team-code id="14" global-id="3420" division="1"/>
+          <team-conference conference="Atlantic Coast" abbrev="ACC" id="1"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="4" losses="8" ties="0" pct=".333"/>
+          <linescore score="61" timeouts-left="2">
+            <quarter quarter="1" score="14"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="13"/>
+            <quarter quarter="4" score="27"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Panthers" alias="Pitt"/>
+          <team-city city="Pittsburgh"/>
+          <team-code id="12" global-id="3418" division="1"/>
+          <team-conference conference="Atlantic Coast" abbrev="ACC" id="1"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="8" losses="4" ties="0" pct=".667"/>
+          <linescore score="76" timeouts-left="2">
+            <quarter quarter="1" score="14"/>
+            <quarter quarter="2" score="21"/>
+            <quarter quarter="3" score="21"/>
+            <quarter quarter="4" score="20"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="15" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="15" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260009" global-id="1621627"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="BB&amp;T Field" city="Winston-Salem" state="North Carolina" state-id="33" country-name="United States" country-id="1" id="9" global-id="2808"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <outcome-home outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <visiting-team>
+          <team-name name="Eagles" alias="BC"/>
+          <team-city city="Boston College"/>
+          <team-code id="10" global-id="3416" division="1"/>
+          <team-conference conference="Atlantic Coast" abbrev="ACC" id="1"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="6" losses="6" ties="0" pct=".500"/>
+          <linescore score="17" timeouts-left="1">
+            <quarter quarter="1" score="10"/>
+            <quarter quarter="2" score="0"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Demon Deacons" alias="Wake"/>
+          <team-city city="Wake Forest"/>
+          <team-code id="9" global-id="3415" division="1"/>
+          <team-conference conference="Atlantic Coast" abbrev="ACC" id="1"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="6" losses="6" ties="0" pct=".500"/>
+          <linescore score="14" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+            <quarter quarter="2" score="0"/>
+            <quarter quarter="3" score="14"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="15" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="14" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611260073" global-id="1621091"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Bryant-Denny Stadium" city="Tuscaloosa" state="Alabama" state-id="1" country-name="United States" country-id="1" id="73" global-id="2871"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="2" status="In-Progress" quarter="4" minutes="0" seconds="43" team-possession-id="73" yards-from-goal="34" down="2" distance="9" segment-number="4" active-state="true"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Tigers" alias="Auburn"/>
+          <team-city city="Auburn"/>
+          <team-code id="75" global-id="3480" division="1"/>
+          <team-conference conference="Southeastern" abbrev="SEC" id="8"/>
+          <team-rank rank="16" playoff-rank="13"/>
+          <record wins="8" losses="3" ties="0" pct=".727"/>
+          <linescore score="12" timeouts-left="2">
+            <quarter quarter="1" score="3"/>
+            <quarter quarter="2" score="6"/>
+            <quarter quarter="3" score="3"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Crimson Tide" alias="Ala"/>
+          <team-city city="Alabama"/>
+          <team-code id="73" global-id="3478" division="1"/>
+          <team-conference conference="Southeastern" abbrev="SEC" id="8"/>
+          <team-rank rank="1" playoff-rank="1"/>
+          <record wins="11" losses="0" ties="0" pct="1.000"/>
+          <linescore score="30" timeouts-left="2">
+            <quarter quarter="1" score="10"/>
+            <quarter quarter="2" score="3"/>
+            <quarter quarter="3" score="14"/>
+            <quarter quarter="4" score="3"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="15" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="14" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611260077" global-id="1621246"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Vaught-Hemingway Stadium at Hollingsworth Field" city="Oxford" state="Mississippi" state-id="24" country-name="United States" country-id="1" id="77" global-id="3153"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="2" status="In-Progress" quarter="4" minutes="3" seconds="15" team-possession-id="77" yards-from-goal="22" down="1" distance="10" segment-number="4" active-state="true"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Bulldogs" alias="MissSt"/>
+          <team-city city="Mississippi State"/>
+          <team-code id="78" global-id="3483" division="1"/>
+          <team-conference conference="Southeastern" abbrev="SEC" id="8"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="4" losses="7" ties="0" pct=".364"/>
+          <linescore score="48" timeouts-left="3">
+            <quarter quarter="1" score="13"/>
+            <quarter quarter="2" score="14"/>
+            <quarter quarter="3" score="14"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Rebels" alias="Miss"/>
+          <team-city city="Ole Miss"/>
+          <team-code id="77" global-id="3482" division="1"/>
+          <team-conference conference="Southeastern" abbrev="SEC" id="8"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="5" losses="6" ties="0" pct=".455"/>
+          <linescore score="20" timeouts-left="3">
+            <quarter quarter="1" score="10"/>
+            <quarter quarter="2" score="10"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="15" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="14" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611260019" global-id="1621572"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Jack Trice Stadium" city="Ames" state="Iowa" state-id="15" country-name="United States" country-id="1" id="19" global-id="2818"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="2" status="In-Progress" quarter="4" minutes="10" seconds="23" team-possession-id="17" yards-from-goal="3" down="" distance="" segment-number="4" active-state="true"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Mountaineers" alias="WVU"/>
+          <team-city city="West Virginia"/>
+          <team-code id="17" global-id="3423" division="1"/>
+          <team-conference conference="Big 12" abbrev="Big 12" id="71"/>
+          <team-rank rank="19" playoff-rank="18"/>
+          <record wins="8" losses="2" ties="0" pct=".800"/>
+          <linescore score="49" timeouts-left="2">
+            <quarter quarter="1" score="14"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="14"/>
+            <quarter quarter="4" score="14"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Cyclones" alias="IaSt"/>
+          <team-city city="Iowa State"/>
+          <team-code id="19" global-id="3425" division="1"/>
+          <team-conference conference="Big 12" abbrev="Big 12" id="71"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="3" losses="8" ties="0" pct=".273"/>
+          <linescore score="19" timeouts-left="2">
+            <quarter quarter="1" score="13"/>
+            <quarter quarter="2" score="3"/>
+            <quarter quarter="3" score="3"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="15" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="15" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611260011" global-id="1621703"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Hard Rock Stadium" city="Miami Gardens" state="Florida" state-id="9" country-name="United States" country-id="1" id="2195" global-id="419"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="2" status="In-Progress" quarter="4" minutes="2" seconds="41" team-possession-id="2" yards-from-goal="3" down="" distance="" segment-number="4" active-state="true"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Blue Devils" alias="Duke"/>
+          <team-city city="Duke"/>
+          <team-code id="2" global-id="3408" division="1"/>
+          <team-conference conference="Atlantic Coast" abbrev="ACC" id="1"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="4" losses="7" ties="0" pct=".364"/>
+          <linescore score="21" timeouts-left="3">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Hurricanes" alias="Mia-Fl"/>
+          <team-city city="Miami (FL)"/>
+          <team-code id="11" global-id="3417" division="1"/>
+          <team-conference conference="Atlantic Coast" abbrev="ACC" id="1"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="7" losses="4" ties="0" pct=".636"/>
+          <linescore score="40" timeouts-left="2">
+            <quarter quarter="1" score="10"/>
+            <quarter quarter="2" score="6"/>
+            <quarter quarter="3" score="17"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="15" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="15" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611260034" global-id="1621732"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Beaver Stadium" city="University Park" state="Pennsylvania" state-id="38" country-name="United States" country-id="1" id="34" global-id="2833"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="2" status="In-Progress" quarter="4" minutes="4" seconds="26" team-possession-id="34" yards-from-goal="83" down="1" distance="10" segment-number="4" active-state="true"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Spartans" alias="MSU"/>
+          <team-city city="Michigan State"/>
+          <team-code id="30" global-id="3436" division="1"/>
+          <team-conference conference="Big Ten" abbrev="Big 10" id="4"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="3" losses="8" ties="0" pct=".273"/>
+          <linescore score="12" timeouts-left="2">
+            <quarter quarter="1" score="6"/>
+            <quarter quarter="2" score="6"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Nittany Lions" alias="PSU"/>
+          <team-city city="Penn State"/>
+          <team-code id="34" global-id="3440" division="1"/>
+          <team-conference conference="Big Ten" abbrev="Big 10" id="4"/>
+          <team-rank rank="8" playoff-rank="7"/>
+          <record wins="9" losses="2" ties="0" pct=".818"/>
+          <linescore score="38" timeouts-left="3">
+            <quarter quarter="1" score="0"/>
+            <quarter quarter="2" score="10"/>
+            <quarter quarter="3" score="21"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="15" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="14" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611260036" global-id="1621754"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Camp Randall Stadium" city="Madison" state="Wisconsin" state-id="49" country-name="United States" country-id="1" id="36" global-id="2835"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="2" status="In-Progress" quarter="4" minutes="1" seconds="10" team-possession-id="36" yards-from-goal="47" down="1" distance="10" segment-number="4" active-state="true"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Golden Gophers" alias="Minn"/>
+          <team-city city="Minnesota"/>
+          <team-code id="31" global-id="3437" division="1"/>
+          <team-conference conference="Big Ten" abbrev="Big 10" id="4"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="8" losses="3" ties="0" pct=".727"/>
+          <linescore score="17" timeouts-left="0">
+            <quarter quarter="1" score="3"/>
+            <quarter quarter="2" score="14"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Badgers" alias="Wisc"/>
+          <team-city city="Wisconsin"/>
+          <team-code id="36" global-id="3442" division="1"/>
+          <team-conference conference="Big Ten" abbrev="Big 10" id="4"/>
+          <team-rank rank="5" playoff-rank="6"/>
+          <record wins="9" losses="2" ties="0" pct=".818"/>
+          <linescore score="31" timeouts-left="3">
+            <quarter quarter="1" score="0"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="3"/>
+            <quarter quarter="4" score="21"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="15" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="12" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611260062" global-id="1622009"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Los Angeles Memorial Coliseum" city="Los Angeles" state="California" state-id="5" country-name="United States" country-id="1" id="62" global-id="2860"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="2" status="In-Progress" quarter="4" minutes="8" seconds="06" team-possession-id="62" yards-from-goal="85" down="2" distance="5" segment-number="4" active-state="true"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Fighting Irish" alias="ND"/>
+          <team-city city="Notre Dame"/>
+          <team-code id="104" global-id="3509" division="1"/>
+          <team-conference conference="Independents (FBS)" abbrev="IndFBS" id="11"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="4" losses="7" ties="0" pct=".364"/>
+          <linescore score="21" timeouts-left="3">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="0"/>
+            <quarter quarter="3" score="14"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Trojans" alias="USC"/>
+          <team-city city="USC"/>
+          <team-code id="62" global-id="3467" division="1"/>
+          <team-conference conference="Pac-12" abbrev="Pac-12" id="7"/>
+          <team-rank rank="12" playoff-rank="12"/>
+          <record wins="8" losses="3" ties="0" pct=".727"/>
+          <linescore score="45" timeouts-left="2">
+            <quarter quarter="1" score="10"/>
+            <quarter quarter="2" score="14"/>
+            <quarter quarter="3" score="14"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="15" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="15" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611262371" global-id="1626702"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Foreman Field at S.B. Ballard Stadium" city="Norfolk" state="Virginia" state-id="46" country-name="United States" country-id="1" id="670" global-id="8005"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <outcome-home outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <visiting-team>
+          <team-name name="Golden Panthers" alias="FIU"/>
+          <team-city city="FIU"/>
+          <team-code id="2307" global-id="5090" division="1"/>
+          <team-conference conference="Conference USA" abbrev="CUSA" id="72"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="4" losses="8" ties="0" pct=".333"/>
+          <linescore score="28" timeouts-left="1">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Monarchs" alias="ODU"/>
+          <team-city city="Old Dominion"/>
+          <team-code id="2371" global-id="11973" division="1"/>
+          <team-conference conference="Conference USA" abbrev="CUSA" id="72"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="9" losses="3" ties="0" pct=".750"/>
+          <linescore score="42" timeouts-left="2">
+            <quarter quarter="1" score="14"/>
+            <quarter quarter="2" score="0"/>
+            <quarter quarter="3" score="14"/>
+            <quarter quarter="4" score="14"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="15" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="14" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611260082" global-id="1627056"/>
+        <coverage level="30"/>
+        <source id="2"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Gerald J. Ford Stadium" city="Dallas" state="Texas" state-id="43" country-name="United States" country-id="1" id="2019" global-id="3181"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="4" status="Final" quarter="4" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="4" active-state="false"/>
+        <outcome-visit outcome-id="1" outcome="Win" conf-outcome-id="1" conference-outcome="Win"/>
+        <outcome-home outcome-id="2" outcome="Loss" conf-outcome-id="2" conference-outcome="Loss"/>
+        <visiting-team>
+          <team-name name="Midshipmen" alias="Navy"/>
+          <team-city city="Navy"/>
+          <team-code id="102" global-id="3507" division="1"/>
+          <team-conference conference="American Athletic Conference" abbrev="AAC" id="122"/>
+          <team-rank rank="0" playoff-rank="25"/>
+          <record wins="9" losses="2" ties="0" pct=".818"/>
+          <linescore score="75" timeouts-left="3">
+            <quarter quarter="1" score="14"/>
+            <quarter quarter="2" score="14"/>
+            <quarter quarter="3" score="28"/>
+            <quarter quarter="4" score="19"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Mustangs" alias="SMU"/>
+          <team-city city="SMU"/>
+          <team-code id="82" global-id="3487" division="1"/>
+          <team-conference conference="American Athletic Conference" abbrev="AAC" id="122"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="5" losses="7" ties="0" pct=".417"/>
+          <linescore score="31" timeouts-left="3">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="17"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="16" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="13" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260061" global-id="1621865"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Reser Stadium" city="Corvallis" state="Oregon" state-id="37" country-name="United States" country-id="1" id="61" global-id="2859"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="2" status="In-Progress" quarter="4" minutes="5" seconds="30" team-possession-id="61" yards-from-goal="49" down="2" distance="2" segment-number="4" active-state="true"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Ducks" alias="Oregon"/>
+          <team-city city="Oregon"/>
+          <team-code id="60" global-id="3465" division="1"/>
+          <team-conference conference="Pac-12" abbrev="Pac-12" id="7"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="4" losses="7" ties="0" pct=".364"/>
+          <linescore score="24" timeouts-left="3">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="10"/>
+            <quarter quarter="4" score="0"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Beavers" alias="OreSt"/>
+          <team-city city="Oregon State"/>
+          <team-code id="61" global-id="3466" division="1"/>
+          <team-conference conference="Pac-12" abbrev="Pac-12" id="7"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="3" losses="8" ties="0" pct=".273"/>
+          <linescore score="28" timeouts-left="3">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="7"/>
+            <quarter quarter="3" score="7"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="16" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="14" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260095" global-id="1626726"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Sun Bowl" city="El Paso" state="Texas" state-id="43" country-name="United States" country-id="1" id="95" global-id="2893"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="2" status="In-Progress" quarter="4" minutes="3" seconds="36" team-possession-id="95" yards-from-goal="70" down="2" distance="5" segment-number="4" active-state="true"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Mean Green" alias="NorTx"/>
+          <team-city city="North Texas"/>
+          <team-code id="182" global-id="3587" division="1"/>
+          <team-conference conference="Conference USA" abbrev="CUSA" id="72"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="5" losses="6" ties="0" pct=".455"/>
+          <linescore score="24" timeouts-left="3">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="10"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Miners" alias="UTEP"/>
+          <team-city city="UTEP"/>
+          <team-code id="95" global-id="3500" division="1"/>
+          <team-conference conference="Conference USA" abbrev="CUSA" id="72"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="3" losses="8" ties="0" pct=".273"/>
+          <linescore score="52" timeouts-left="3">
+            <quarter quarter="1" score="10"/>
+            <quarter quarter="2" score="21"/>
+            <quarter quarter="3" score="14"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="16" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="16" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260202" global-id="1627054"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Pratt &amp; Whitney Stadium at Rentschler Field" city="East Hartford" state="Connecticut" state-id="7" country-name="United States" country-id="1" id="228" global-id="3484"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="2" status="In-Progress" quarter="4" minutes="8" seconds="21" team-possession-id="106" yards-from-goal="3" down="" distance="" segment-number="4" active-state="true"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Green Wave" alias="Tulane"/>
+          <team-city city="Tulane"/>
+          <team-code id="106" global-id="3511" division="1"/>
+          <team-conference conference="American Athletic Conference" abbrev="AAC" id="122"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="3" losses="8" ties="0" pct=".273"/>
+          <linescore score="38" timeouts-left="1">
+            <quarter quarter="1" score="10"/>
+            <quarter quarter="2" score="14"/>
+            <quarter quarter="3" score="0"/>
+            <quarter quarter="4" score="14"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Huskies" alias="UConn"/>
+          <team-city city="Connecticut"/>
+          <team-code id="202" global-id="3607" division="1"/>
+          <team-conference conference="American Athletic Conference" abbrev="AAC" id="122"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="3" losses="8" ties="0" pct=".273"/>
+          <linescore score="13" timeouts-left="3">
+            <quarter quarter="1" score="0"/>
+            <quarter quarter="2" score="0"/>
+            <quarter quarter="3" score="6"/>
+            <quarter quarter="4" score="7"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="17" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="16" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611260152" global-id="1626714"/>
+        <coverage level="30"/>
+        <source id="1"/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Johnny (Red) Floyd Stadium" city="Murfreesboro" state="Tennessee" state-id="42" country-name="United States" country-id="1" id="152" global-id="2950"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="2" status="In-Progress" quarter="2" minutes="1" seconds="15" team-possession-id="152" yards-from-goal="52" down="2" distance="3" segment-number="2" active-state="true"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Owls" alias="FlaAtl"/>
+          <team-city city="Florida Atlantic"/>
+          <team-code id="2294" global-id="4947" division="1"/>
+          <team-conference conference="Conference USA" abbrev="CUSA" id="72"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="3" losses="8" ties="0" pct=".273"/>
+          <linescore score="21" timeouts-left="3">
+            <quarter quarter="1" score="7"/>
+            <quarter quarter="2" score="14"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Blue Raiders" alias="MiddTn"/>
+          <team-city city="Middle Tennessee"/>
+          <team-code id="152" global-id="3557" division="1"/>
+          <team-conference conference="Conference USA" abbrev="CUSA" id="72"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="7" losses="4" ties="0" pct=".636"/>
+          <linescore score="35" timeouts-left="3">
+            <quarter quarter="1" score="21"/>
+            <quarter quarter="2" score="14"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="19" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="16" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260059" global-id="1621728"/>
+        <coverage level="30"/>
+        <source id=""/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Kabam Field at California Memorial Stadium" city="Berkeley" state="California" state-id="5" country-name="United States" country-id="1" id="59" global-id="2857"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Bruins" alias="UCLA"/>
+          <team-city city="UCLA"/>
+          <team-code id="64" global-id="3469" division="1"/>
+          <team-conference conference="Pac-12" abbrev="Pac-12" id="7"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="4" losses="7" ties="0" pct=".364"/>
+        </visiting-team>
+        <home-team>
+          <team-name name="Golden Bears" alias="Cal"/>
+          <team-city city="California"/>
+          <team-code id="59" global-id="3464" division="1"/>
+          <team-conference conference="Pac-12" abbrev="Pac-12" id="7"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="4" losses="7" ties="0" pct=".364"/>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="19" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="18" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611262560" global-id="1626690"/>
+        <coverage level="30"/>
+        <source id=""/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Alamodome" city="San Antonio" state="Texas" state-id="43" country-name="United States" country-id="1" id="1006" global-id="3087"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="49ers" alias="Char"/>
+          <team-city city="Charlotte"/>
+          <team-code id="2595" global-id="24549" division="1"/>
+          <team-conference conference="Conference USA" abbrev="CUSA" id="72"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="4" losses="7" ties="0" pct=".364"/>
+          <linescore score="0" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Roadrunners" alias="UTSA"/>
+          <team-city city="UTSA"/>
+          <team-code id="2560" global-id="23207" division="1"/>
+          <team-conference conference="Conference USA" abbrev="CUSA" id="72"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="5" losses="6" ties="0" pct=".455"/>
+          <linescore score="0" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="19" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="19" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260176" global-id="1626734"/>
+        <coverage level="30"/>
+        <source id=""/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Joan C. Edwards Stadium" city="Huntington" state="West Virginia" state-id="48" country-name="United States" country-id="1" id="176" global-id="3164"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Hilltoppers" alias="WestKy"/>
+          <team-city city="Western Kentucky"/>
+          <team-code id="224" global-id="3628" division="1"/>
+          <team-conference conference="Conference USA" abbrev="CUSA" id="72"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="8" losses="3" ties="0" pct=".727"/>
+        </visiting-team>
+        <home-team>
+          <team-name name="Thundering Herd" alias="Marsh"/>
+          <team-city city="Marshall"/>
+          <team-code id="176" global-id="3581" division="1"/>
+          <team-conference conference="Conference USA" abbrev="CUSA" id="72"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="3" losses="8" ties="0" pct=".273"/>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="19" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="19" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611260001" global-id="1621340"/>
+        <coverage level="30"/>
+        <source id=""/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Memorial Stadium" city="Clemson" state="South Carolina" state-id="40" country-name="United States" country-id="1" id="1" global-id="2800"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Gamecocks" alias="SC"/>
+          <team-city city="South Carolina"/>
+          <team-code id="70" global-id="3475" division="1"/>
+          <team-conference conference="Southeastern" abbrev="SEC" id="8"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="6" losses="5" ties="0" pct=".545"/>
+        </visiting-team>
+        <home-team>
+          <team-name name="Tigers" alias="Clem"/>
+          <team-city city="Clemson"/>
+          <team-code id="1" global-id="3407" division="1"/>
+          <team-conference conference="Atlantic Coast" abbrev="ACC" id="1"/>
+          <team-rank rank="4" playoff-rank="4"/>
+          <record wins="10" losses="1" ties="0" pct=".909"/>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="19" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="18" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611260072" global-id="1621363"/>
+        <coverage level="30"/>
+        <source id=""/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Vanderbilt Stadium" city="Nashville" state="Tennessee" state-id="42" country-name="United States" country-id="1" id="72" global-id="2870"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Volunteers" alias="Tenn"/>
+          <team-city city="Tennessee"/>
+          <team-code id="71" global-id="3476" division="1"/>
+          <team-conference conference="Southeastern" abbrev="SEC" id="8"/>
+          <team-rank rank="24" playoff-rank="17"/>
+          <record wins="8" losses="3" ties="0" pct=".727"/>
+        </visiting-team>
+        <home-team>
+          <team-name name="Commodores" alias="Vandy"/>
+          <team-city city="Vanderbilt"/>
+          <team-code id="72" global-id="3477" division="1"/>
+          <team-conference conference="Southeastern" abbrev="SEC" id="8"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="5" losses="6" ties="0" pct=".455"/>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="19" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="17" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611260018" global-id="1621795"/>
+        <coverage level="30"/>
+        <source id=""/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Folsom Field" city="Boulder" state="Colorado" state-id="6" country-name="United States" country-id="1" id="18" global-id="2817"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Utes" alias="Utah"/>
+          <team-city city="Utah"/>
+          <team-code id="94" global-id="3499" division="1"/>
+          <team-conference conference="Pac-12" abbrev="Pac-12" id="7"/>
+          <team-rank rank="21" playoff-rank="22"/>
+          <record wins="8" losses="3" ties="0" pct=".727"/>
+        </visiting-team>
+        <home-team>
+          <team-name name="Buffaloes" alias="Colo"/>
+          <team-city city="Colorado"/>
+          <team-code id="18" global-id="3424" division="1"/>
+          <team-conference conference="Pac-12" abbrev="Pac-12" id="7"/>
+          <team-rank rank="9" playoff-rank="9"/>
+          <record wins="9" losses="2" ties="0" pct=".818"/>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="19" minute="30" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="19" minute="30"/>
+        <week week="14"/>
+        <gamecode code="201611260015" global-id="1627055"/>
+        <coverage level="30"/>
+        <source id=""/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Lincoln Financial Field" city="Philadelphia" state="Pennsylvania" state-id="38" country-name="United States" country-id="1" id="241" global-id="3501"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Pirates" alias="ECU"/>
+          <team-city city="East Carolina"/>
+          <team-code id="99" global-id="3504" division="1"/>
+          <team-conference conference="American Athletic Conference" abbrev="AAC" id="122"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="3" losses="8" ties="0" pct=".273"/>
+          <linescore score="0" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+          </linescore>
+        </visiting-team>
+        <home-team>
+          <team-name name="Owls" alias="Temple"/>
+          <team-city city="Temple"/>
+          <team-code id="15" global-id="3421" division="1"/>
+          <team-conference conference="American Athletic Conference" abbrev="AAC" id="122"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="8" losses="3" ties="0" pct=".727"/>
+          <linescore score="0" timeouts-left="0">
+            <quarter quarter="1" score="0"/>
+          </linescore>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="20" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="20" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260003" global-id="1621167"/>
+        <coverage level="30"/>
+        <source id=""/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Bobby Bowden Field at Doak Campbell Stadium" city="Tallahassee" state="Florida" state-id="9" country-name="United States" country-id="1" id="3" global-id="3146"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Gators" alias="Fla"/>
+          <team-city city="Florida"/>
+          <team-code id="67" global-id="3472" division="1"/>
+          <team-conference conference="Southeastern" abbrev="SEC" id="8"/>
+          <team-rank rank="13" playoff-rank="15"/>
+          <record wins="8" losses="2" ties="0" pct=".800"/>
+        </visiting-team>
+        <home-team>
+          <team-name name="Seminoles" alias="FlaSt"/>
+          <team-city city="Florida State"/>
+          <team-code id="3" global-id="3409" division="1"/>
+          <team-conference conference="Atlantic Coast" abbrev="ACC" id="1"/>
+          <team-rank rank="15" playoff-rank="14"/>
+          <record wins="8" losses="3" ties="0" pct=".727"/>
+        </home-team>
+      </cfb-score>
+      <cfb-score>
+        <date year="2016" month="11" date="26" day="6"/>
+        <time hour="20" minute="00" timezone="Eastern" utc-hour="-5" utc-minute="00"/>
+        <local-game-date year="2016" month="11" date="26" day="6"/>
+        <local-time hour="17" minute="00"/>
+        <week week="14"/>
+        <gamecode code="201611260063" global-id="1622031"/>
+        <coverage level="30"/>
+        <source id=""/>
+        <gametype id="1" type="Regular Season" detail="" round="" round-name=""/>
+        <stadium name="Stanford Stadium" city="Stanford" state="California" state-id="5" country-name="United States" country-id="1" id="63" global-id="2861"/>
+        <bowl id="0" name="" full-name=""/>
+        <gamestate status-id="1" status="Pre-Game" quarter="" minutes="" seconds="" team-possession-id="" yards-from-goal="" down="" distance="" segment-number="0" active-state="false"/>
+        <outcome-visit outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <outcome-home outcome-id="" outcome="" conf-outcome-id="" conference-outcome=""/>
+        <visiting-team>
+          <team-name name="Owls" alias="Rice"/>
+          <team-city city="Rice"/>
+          <team-code id="81" global-id="3486" division="1"/>
+          <team-conference conference="Conference USA" abbrev="CUSA" id="72"/>
+          <team-rank rank="0" playoff-rank="0"/>
+          <record wins="3" losses="8" ties="0" pct=".273"/>
+        </visiting-team>
+        <home-team>
+          <team-name name="Cardinal" alias="Stan"/>
+          <team-city city="Stanford"/>
+          <team-code id="63" global-id="3468" division="1"/>
+          <team-conference conference="Pac-12" abbrev="Pac-12" id="7"/>
+          <team-rank rank="0" playoff-rank="24"/>
+          <record wins="8" losses="3" ties="0" pct=".727"/>
+        </home-team>
+      </cfb-score>
+    </cfb-scores>
+  </sports-scores>
+</sports-statistics>
